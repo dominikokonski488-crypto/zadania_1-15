@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Okonski Z10_html</title>
+</head>
+<body>
+    <h1>1. Dwie części selektora</h1>
+    <p style="font-family: Arial;">Selektor i deklaracja { cecha: wartość; }</p>
+
+    <h1>2. Znaczenie nawiasów klamrowych</h1>
+    <p style="font-family: Arial;">Otaczają deklaracje dla danego selektora.</p>
+
+    <h1>3. Cechy</h1>
+    <p style="font-family: Arial;">Określają co chcemy zmienić, np. color, font-size.</p>
+
+    <h1>4. Wartości</h1>
+    <p style="font-family: Arial;">Określają szczegółowo jak ma wyglądać cecha, np. red, 12pt.</p>
+
+    <h1>5. Kiedy średnik?</h1>
+    <p style="font-family: Arial;">Oddziela kolejne deklaracje. Ostatni może być pominięty, ale zalecany.</p>
+
+    <!-- Okonski Z10_html -->
+</body>
+</html>

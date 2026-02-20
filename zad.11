@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Okonski Z11_html</title>
+</head>
+<body>
+    <h1>1. Rodzaje selektorów</h1>
+    <ol style="font-family: Arial;">
+        <li>Selektory proste
+            <ol>
+                <li>Elementów, np. p, h1</li>
+                <li>Klasy, np. .menu</li>
+                <li>ID, np. #naglowek</li>
+            </ol>
+        </li>
+        <li>Selektory grupowe
+            <ol>
+                <li>Oddzielone przecinkiem, np. h1, h2, p</li>
+            </ol>
+        </li>
+        <li>Selektory złożone
+            <ol>
+                <li>Potomków, np. div p</li>
+                <li>Bezpośrednich dzieci, np. div > p</li>
+            </ol>
+        </li>
+    </ol>
+
+    <!-- Okonski Z11_html -->
+</body>
+</html>

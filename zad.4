@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Okonski Z4_html</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+h1 {
+    color: navy;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+td {
+    border: 1px solid black;
+    padding: 5px;
+    vertical-align: top;
+}
+textarea {
+    width: 100%;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+<h1>Sposoby podłączania CSS do strony WWW</h1>
+
+<table>
+<tr>
+<td>
+<b>1) Zewnętrzny arkusz CSS</b>
+<textarea readonly>
+&lt;link rel="stylesheet" type="text/css" href="plik.css"&gt;
+</textarea>
+</td>
+</tr>
+<tr>
+<td>
+<b>2) Wewnętrzny arkusz CSS</b>
+<textarea readonly>
+&lt;style&gt;
+body { font-family: Arial; }
+&lt;/style&gt;
+</textarea>
+</td>
+</tr>
+<tr>
+<td>
+<b>3) Styl liniowy (inline)</b>
+<textarea readonly>
+&lt;p style="color: red; font-size: 20px;"&gt;Tekst&lt;/p&gt;
+</textarea>
+</td>
+</tr>
+<tr>
+<td>
+<b>4) Importowanie CSS</b>
+<textarea readonly>
+&lt;style&gt;
+@import url("plik.css");
+&lt;/style&gt;
+</textarea>
+</td>
+</tr>
+<tr>
+<td>
+<b>5) Styl w atrybucie <head> w HTML</b>
+<textarea readonly>
+&lt;link rel="stylesheet" type="text/css" href="plik.css"&gt;
+</textarea>
+</td>
+</tr>
+</table>
+
+<!-- Okonski Z4_html -->
+</body>
+</html>

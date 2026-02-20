@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Okonski Z15_html</title>
+    <link rel="stylesheet" type="text/css" href="okon_z15.css">
+</head>
+<body>
+    <p>Okonski, klasa 1p</p>
+    <p>Mój numer z dziennika to 16</p>
+
+    <p class="blue">😊 – uśmiech</p>
+    <p class="green">😎 – okulary</p>
+    <p class="blue">😜 – wytyknięty język</p>
+    <p class="green">😢 – smutek</p>
+    <p class="blue">🤔 – myślenie</p>
+    <p class="green">❤️ – serce</p>
+
+    <!-- Okonski Z15_html -->
+</body>
+</html>

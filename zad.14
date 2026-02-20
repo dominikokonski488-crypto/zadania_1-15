@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Okonski Z14_html</title>
+</head>
+<body>
+    <h1>Sposoby definiowania kolorów w CSS</h1>
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th><u><b>Metoda</b></u></th>
+            <th><u><b>Opis</b></u></th>
+            <th><u><b>Przykład</b></u></th>
+        </tr>
+        <tr>
+            <td>Nazwa koloru</td>
+            <td>Użycie nazwy koloru</td>
+            <td>red, blue, green</td>
+        </tr>
+        <tr>
+            <td>HEX</td>
+            <td>Kod szesnastkowy RGB</td>
+            <td>#FF0000, #00FF00, #0000FF</td>
+        </tr>
+        <tr>
+            <td>RGB</td>
+            <td>Składowe Red Green Blue</td>
+            <td>rgb(255,0,0)</td>
+        </tr>
+        <tr>
+            <td>RGBA</td>
+            <td>RGB + alpha (przezroczystość)</td>
+            <td>rgba(255,0,0,0.5)</td>
+        </tr>
+        <tr>
+            <td>HSL</td>
+            <td>Hue, Saturation, Lightness</td>
+            <td>hsl(0,100%,50%)</td>
+        </tr>
+        <tr>
+            <td>HSLA</td>
+            <td>HSL + alpha</td>
+            <td>hsla(0,100%,50%,0.5)</td>
+        </tr>
+    </table>
+
+    <!-- Okonski Z14_html -->
+</body>
+</html>
